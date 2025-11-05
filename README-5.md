@@ -1,6 +1,6 @@
 # Predicting Lithium Presence From Surrounding Geological Features
 
-##### Kara Bivens, Bradley Bowen
+##### Kara Bivens and Bradley Bowen
 
 The goal of our project is to build a model that uses the prevalence of specific minerals to predict the presence of lithium in a given region.
 
