@@ -1,4 +1,4 @@
-# Predicting Lithium Presence From Surrounding Geological Features
+# Predicting Lithium Presence From Surrounding Geological Features (Updated Nov 5)
 
 ##### Kara Bivens and Bradley Bowen
 
